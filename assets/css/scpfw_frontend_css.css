@@ -1,0 +1,26 @@
+div.scpfw_product_sales_counter {
+    padding: 8px 0px;
+    display: block;
+}
+div.scpfw_product_sales_counter_inner {
+    padding: 5px 15px;
+    display: inline-block;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.set_radiuse {
+    display: none!important;
+}
+.scpfw_product_empty_sales {
+    display: inline-block;
+    width: 100%;
+}
+.scpfw_product_empty_sales p.scpfw_empty_sales_text {
+    padding: 5px 15px;
+    display: inline-block;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0px;
+}

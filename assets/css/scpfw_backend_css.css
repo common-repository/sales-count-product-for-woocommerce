@@ -1,0 +1,54 @@
+label.scpfw_pro_link {
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+img.scpfw_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
+.scpfw-table-main {
+    background-color: white;
+    margin-top: 15px;
+    border: 1px solid #2271b1;
+    margin-bottom: 15px;
+    width: 98%;
+}
+.scpfw-table-main table.data_table {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+}
+.scpfw-table-main table.data_table tbody tr th {
+    vertical-align: top;
+    text-align: left;
+    padding: 15px 10px;
+    width: 20%;
+}
+.scpfw-table-main table.data_table tbody tr td {
+    vertical-align: top;
+    text-align: left;
+    padding: 15px 10px;
+    width: 50%;
+}
+td.scpfw_visibility_on_pages {
+    line-height: 2.5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h2.scpfw_heading {
+    padding: 10px 20px;
+    margin: 0px;
+    background-color: #2271b1;
+    color: #ffffff;
+}
+p.scpfw_notes {
+    display: inline-block;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+}
